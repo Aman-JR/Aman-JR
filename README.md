@@ -3,10 +3,10 @@
 <h3 align="center">I'm a Computer Science Student from India.</h3>
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently studying in  **GRAPHIC ERA HILL UNIVERSITY,DDN**
-- 🌱 I’m currently learning  **BLOCKCHAIN and AI**
+- 🌱 I’m currently learning  **ML and AI Algorithms**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **amanjr011@gmail.com**
-- ⚡  **I like playing  pc games and loves travelling a lot.**
+- ⚡  **I like playing  pc games and workout.**
 <p align="center">
     <a href="https://github.com/Aman-JR/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman-JR's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-JR&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
